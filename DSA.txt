@@ -1,0 +1,49 @@
+1.A data structure is a way to organize, manage, and store data so it can be used efficiently. It helps in performing various operations on data, such as retrieval, insertion, and deletion. Common examples include arrays, linked lists, stacks, queues, and trees.
+
+2.Types of data structures
+  ->primitive data structures
+  ->non primitive data structures
+
+3.primitive data Types
+ ->int 
+ ->float
+ ->string
+ ->char
+ ->long
+ ->bool
+
+4.Non premitive data Types
+  ->Arrays
+  ex:movie booking system ,leader boards
+  ->linked lists
+  ex:songs in playlist,website window
+  ->stacks(LIFO)
+  ex:calls,emails,messages,notifications
+  ->queues(FIFO)
+  ex:linesfromsomethings
+  ->Graphs
+  ex:maps,meta
+
+5.Types of Algorithms
+  ->simple recursive algorithm
+  ->divide and conquer algorithm
+  ->brute force algorithm
+  ->greedy algorithm
+  ->random algorithm
+  ->Dynamic program algorithm
+
+6.Asymptotic notations arethe expressions that are used to represent the complexityof an alogarithm
+  ->types of cases
+  ->best,worst,average
+  ->Big(o) notations for worst cases
+  ->omega notations for best cases
+  ->theta notations for avarage cases
+
+7.linear search
+  ->time complexity is O(n)
+  ->space  complexity is O(1)
+
+8.binary search
+  ->time complexity of best case O(1)
+    time complexity of worst case O(log n)
+  ->space complexity is O(1)
